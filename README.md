@@ -6,7 +6,6 @@ This repository contains a reference implementation of Encrypted Message Protoco
 
 It is not aimed to give universal solution. Instead it implements some popular types on encrypted messages, such as:
 - RSA encrypted with SHA-256/SHA-512 signing
-- ECDSA encrypted with SHA-256/SHA-512 signing
 - AES128 and AES256 encrypted without signing
 
 ## Install
