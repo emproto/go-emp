@@ -17,8 +17,6 @@ protocol specification.
 "alg" field can contain one of given encryption algorithm aliases:
 - RSA-SHA256 - for RSA encrypted, SHA256 signed message
 - RSA-SHA512 - for RSA encrypted, SHA512 signed message
-- ECDSA-SHA256 - for ECDSA encrypted, SHA256 signed message
-- ECDSA-SHA512 - for ECDSA encrypted, SHA512 signed message
 - AES128 - for AES128 encrypted message with no signature
 - AES256 - for AES256 encrypted message with no signature
 
